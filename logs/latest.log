@@ -1,0 +1,425 @@
+[00:03:29] [INFO] - Команда come зарегестрированна
+[00:03:29] [INFO] - Команда state зарегестрированна
+[00:03:29] [INFO] - Set threshold compression: 256
+[00:03:29] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:03:29] [INFO] - Recived position x:93.5,y:77.0,z:-175.5
+[00:03:29] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:03:29] [INFO] - 
+[00:03:30] [INFO] - Recived health:20.0
+[00:03:30] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:03:30] [INFO] - null
+[00:03:30] [INFO] - Recived position x:93.5,y:77.0,z:-175.5
+[00:04:13] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:04:13] [INFO] - !come
+[00:04:13] [INFO] - Walking
+[00:04:13] [INFO] - Calculating path
+[00:04:13] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:04:13] [INFO] - Бегу
+[00:04:13] [INFO] - Path found, walking...
+[00:04:28] [INFO] - Recived health:19.0
+[00:04:28] [INFO] - Recived health:20.0
+[00:06:10] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:06:10] [INFO] - !come
+[00:06:10] [INFO] - Walking
+[00:06:10] [INFO] - Calculating path
+[00:06:10] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:06:10] [INFO] - Бегу
+[00:06:10] [INFO] - Path found, walking...
+[00:06:12] [INFO] - Recived health:19.0
+[00:06:12] [INFO] - Recived health:20.0
+[00:06:32] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:06:32] [INFO] - !come
+[00:06:32] [INFO] - Walking
+[00:06:32] [INFO] - Calculating path
+[00:06:32] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:06:32] [INFO] - Бегу
+[00:06:32] [INFO] - Path found, walking...
+[00:06:50] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:06:50] [INFO] - !come
+[00:06:50] [INFO] - Walking
+[00:06:50] [INFO] - Calculating path
+[00:06:50] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:06:50] [INFO] - Бегу
+[00:06:50] [INFO] - Path found, walking...
+[00:08:49] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:08:49] [INFO] - !come
+[00:08:49] [INFO] - Walking
+[00:08:49] [INFO] - Calculating path
+[00:08:49] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:08:49] [INFO] - Бегу
+[00:08:49] [INFO] - Path found, walking...
+[00:13:54] [INFO] - {"translate":"chat.type.advancement.task","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"color":"green","translate":"chat.square_brackets","with":[{"hoverEvent":{"action":"show_text","contents":{"color":"green","extra":[{"text":"\n"},{"translate":"advancements.adventure.shoot_arrow.description"}],"translate":"advancements.adventure.shoot_arrow.title"}},"translate":"advancements.adventure.shoot_arrow.title"}]}]}
+[00:13:54] [INFO] - 
+[00:13:54] [INFO] - Recived health:12.0
+[00:13:54] [INFO] - Recived health:13.0
+[00:13:55] [INFO] - Recived health:14.0
+[00:13:56] [INFO] - Recived health:15.0
+[00:13:57] [INFO] - Recived health:16.0
+[00:13:58] [INFO] - Recived health:17.0
+[00:13:58] [INFO] - Recived health:18.0
+[00:13:59] [INFO] - Recived health:19.0
+[00:14:00] [INFO] - Recived health:20.0
+[00:24:31] [INFO] - Команда come зарегестрированна
+[00:24:31] [INFO] - Команда state зарегестрированна
+[00:24:31] [INFO] - Команда br зарегестрированна
+[00:24:31] [INFO] - Set threshold compression: 256
+[00:24:31] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:24:31] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:24:31] [INFO] - null
+[00:24:31] [INFO] - Recived position x:37.5,y:68.0,z:-175.5
+[00:24:31] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:24:31] [INFO] - 
+[00:24:31] [INFO] - Recived health:20.0
+[00:24:31] [INFO] - Recived position x:37.5,y:68.0,z:-175.5
+[00:24:34] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:24:34] [INFO] - !br
+[00:24:55] [INFO] - Команда come зарегестрированна
+[00:24:55] [INFO] - Команда state зарегестрированна
+[00:24:55] [INFO] - Команда br зарегестрированна
+[00:24:55] [INFO] - Set threshold compression: 256
+[00:24:55] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:24:55] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:24:55] [INFO] - null
+[00:24:55] [INFO] - Recived position x:37.5,y:68.0,z:-175.5
+[00:24:55] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:24:55] [INFO] - 
+[00:24:55] [INFO] - Recived health:20.0
+[00:24:55] [INFO] - Recived position x:37.5,y:68.0,z:-175.5
+[00:24:57] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:24:57] [INFO] - !br
+[00:26:14] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:26:14] [INFO] - !come
+[00:26:14] [INFO] - Walking
+[00:26:14] [INFO] - Calculating path
+[00:26:14] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:26:14] [INFO] - Бегу
+[00:26:14] [INFO] - Path found, walking...
+[00:30:17] [INFO] - Команда come зарегестрированна
+[00:30:17] [INFO] - Команда state зарегестрированна
+[00:30:17] [INFO] - Команда br зарегестрированна
+[00:30:17] [INFO] - Set threshold compression: 256
+[00:30:17] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:30:17] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:30:17] [INFO] - null
+[00:30:17] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:30:17] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:30:17] [INFO] - 
+[00:30:17] [INFO] - Recived health:20.0
+[00:30:17] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:30:20] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:30:20] [INFO] - !br
+[00:30:20] [INFO] - Disconected: {"translate":"multiplayer.disconnect.invalid_player_movement"}
+[00:34:19] [INFO] - Команда come зарегестрированна
+[00:34:19] [INFO] - Команда state зарегестрированна
+[00:34:19] [INFO] - Команда br зарегестрированна
+[00:34:19] [INFO] - Set threshold compression: 256
+[00:34:19] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:34:19] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:34:19] [INFO] - null
+[00:34:19] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:34:19] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:34:19] [INFO] - 
+[00:34:19] [INFO] - Recived health:20.0
+[00:34:19] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:37:19] [INFO] - Команда come зарегестрированна
+[00:37:19] [INFO] - Команда state зарегестрированна
+[00:37:19] [INFO] - Команда br зарегестрированна
+[00:37:19] [INFO] - Set threshold compression: 256
+[00:37:19] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:37:19] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:37:19] [INFO] - null
+[00:37:19] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:37:19] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:37:19] [INFO] - 
+[00:37:19] [INFO] - Recived health:20.0
+[00:37:19] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:37:43] [INFO] - Команда come зарегестрированна
+[00:37:43] [INFO] - Команда state зарегестрированна
+[00:37:43] [INFO] - Команда br зарегестрированна
+[00:37:43] [INFO] - Set threshold compression: 256
+[00:37:43] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:37:43] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:37:43] [INFO] - null
+[00:37:43] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:37:43] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:37:43] [INFO] - 
+[00:37:43] [INFO] - Recived health:20.0
+[00:37:43] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:37:47] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:37:47] [INFO] - !br
+[00:37:50] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:37:50] [INFO] - !br
+[00:39:04] [INFO] - Команда come зарегестрированна
+[00:39:04] [INFO] - Команда state зарегестрированна
+[00:39:04] [INFO] - Команда br зарегестрированна
+[00:39:04] [INFO] - Set threshold compression: 256
+[00:39:04] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:39:04] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:39:04] [INFO] - null
+[00:39:04] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:39:04] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:39:04] [INFO] - 
+[00:39:04] [INFO] - Recived health:20.0
+[00:39:04] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:39:09] [INFO] - Recived health:19.0
+[00:39:10] [INFO] - Recived health:20.0
+[00:40:43] [INFO] - Команда come зарегестрированна
+[00:40:43] [INFO] - Команда state зарегестрированна
+[00:40:43] [INFO] - Команда br зарегестрированна
+[00:40:43] [INFO] - Set threshold compression: 256
+[00:40:43] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:40:43] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:40:43] [INFO] - null
+[00:40:43] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:40:43] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:40:43] [INFO] - 
+[00:40:43] [INFO] - Recived health:20.0
+[00:40:43] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:40:53] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.gamemode.success.self","with":[{"translate":"gameMode.spectator"}]}]}
+[00:40:53] [INFO] - 
+[00:40:59] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.gamemode.success.self","with":[{"translate":"gameMode.creative"}]}]}
+[00:40:59] [INFO] - 
+[00:41:29] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","65.000000","-171.500000"]}]}
+[00:41:29] [INFO] - 
+[00:41:34] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","65.000000","-170.500000"]}]}
+[00:41:34] [INFO] - 
+[00:41:44] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","65.000000","-171.500000"]}]}
+[00:41:44] [INFO] - 
+[00:41:48] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","65.000000","-171.500000"]}]}
+[00:41:48] [INFO] - 
+[00:41:56] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","65.000000","-171.500000"]}]}
+[00:41:56] [INFO] - 
+[00:42:02] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","65.000000","-172.500000"]}]}
+[00:42:02] [INFO] - 
+[00:42:02] [INFO] - Disconected: {"translate":"multiplayer.disconnect.invalid_player_movement"}
+[00:42:35] [INFO] - Команда come зарегестрированна
+[00:42:35] [INFO] - Команда state зарегестрированна
+[00:42:35] [INFO] - Команда br зарегестрированна
+[00:42:35] [INFO] - Set threshold compression: 256
+[00:42:35] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:42:35] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:42:35] [INFO] - null
+[00:42:35] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:42:35] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:42:35] [INFO] - 
+[00:42:35] [INFO] - Recived health:20.0
+[00:42:35] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:42:35] [INFO] - Disconected: {"translate":"multiplayer.disconnect.invalid_player_movement"}
+[00:43:29] [INFO] - Команда come зарегестрированна
+[00:43:29] [INFO] - Команда state зарегестрированна
+[00:43:29] [INFO] - Команда br зарегестрированна
+[00:43:29] [INFO] - Set threshold compression: 256
+[00:43:29] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:43:29] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:43:30] [INFO] - null
+[00:43:30] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:43:30] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:43:30] [INFO] - 
+[00:43:30] [INFO] - Recived health:20.0
+[00:43:30] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:43:30] [INFO] - Disconected: {"translate":"multiplayer.disconnect.invalid_player_movement"}
+[00:43:38] [INFO] - Команда come зарегестрированна
+[00:43:38] [INFO] - Команда state зарегестрированна
+[00:43:38] [INFO] - Команда br зарегестрированна
+[00:43:38] [INFO] - Set threshold compression: 256
+[00:43:38] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:43:38] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:43:38] [INFO] - null
+[00:43:38] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:43:38] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:43:38] [INFO] - 
+[00:43:38] [INFO] - Recived health:20.0
+[00:43:38] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:43:38] [INFO] - Disconected: {"translate":"multiplayer.disconnect.invalid_player_movement"}
+[00:43:52] [INFO] - Команда come зарегестрированна
+[00:43:52] [INFO] - Команда state зарегестрированна
+[00:43:52] [INFO] - Команда br зарегестрированна
+[00:43:52] [INFO] - Set threshold compression: 256
+[00:43:52] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:43:52] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:43:52] [INFO] - null
+[00:43:52] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:43:52] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:43:52] [INFO] - 
+[00:43:53] [INFO] - Recived health:20.0
+[00:43:53] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:44:16] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","68.000000","-172.500000"]}]}
+[00:44:16] [INFO] - 
+[00:44:16] [INFO] - Disconected: {"translate":"multiplayer.disconnect.invalid_player_movement"}
+[00:44:47] [INFO] - Команда come зарегестрированна
+[00:44:47] [INFO] - Команда state зарегестрированна
+[00:44:47] [INFO] - Команда br зарегестрированна
+[00:44:47] [INFO] - Set threshold compression: 256
+[00:44:47] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:44:47] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:44:47] [INFO] - null
+[00:44:47] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:44:47] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:44:47] [INFO] - 
+[00:44:48] [INFO] - Recived health:20.0
+[00:44:48] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:44:48] [INFO] - Disconected: {"translate":"multiplayer.disconnect.invalid_player_movement"}
+[00:45:03] [INFO] - Команда come зарегестрированна
+[00:45:03] [INFO] - Команда state зарегестрированна
+[00:45:03] [INFO] - Команда br зарегестрированна
+[00:45:03] [INFO] - Set threshold compression: 256
+[00:45:03] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:45:03] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:45:03] [INFO] - null
+[00:45:03] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:45:03] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:45:03] [INFO] - 
+[00:45:03] [INFO] - Recived health:20.0
+[00:45:03] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:45:07] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","68.000000","-172.500000"]}]}
+[00:45:07] [INFO] - 
+[00:45:16] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","68.000000","-171.500000"]}]}
+[00:45:16] [INFO] - 
+[00:45:18] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","68.000000","-171.500000"]}]}
+[00:45:18] [INFO] - 
+[00:45:22] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","68.000000","-172.500000"]}]}
+[00:45:22] [INFO] - 
+[00:45:25] [INFO] - {"italic":true,"color":"gray","translate":"chat.type.admin","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},{"translate":"commands.teleport.success.location.single","with":[{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"},"36.500000","68.000000","-173.500000"]}]}
+[00:45:25] [INFO] - 
+[00:50:26] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:50:26] [INFO] - !br
+[00:50:50] [INFO] - Команда come зарегестрированна
+[00:50:50] [INFO] - Команда state зарегестрированна
+[00:50:50] [INFO] - Команда br зарегестрированна
+[00:50:50] [INFO] - Set threshold compression: 256
+[00:50:50] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:50:50] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:50:50] [INFO] - null
+[00:50:50] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:50:50] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:50:50] [INFO] - 
+[00:50:50] [INFO] - Recived health:20.0
+[00:50:50] [INFO] - Recived position x:36.5,y:68.0,z:-172.5
+[00:51:01] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:51:01] [INFO] - !br
+[00:51:04] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:51:04] [INFO] - !br
+[00:51:05] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:51:05] [INFO] - !br
+[00:51:28] [INFO] - Recived health:9.500002
+[00:51:28] [INFO] - Recived health:10.500002
+[00:51:29] [INFO] - Recived health:3.8146973E-6
+[00:51:29] [INFO] - Recived health:1.0000038
+[00:51:29] [INFO] - {"translate":"death.attack.player","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"},{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"}]}
+[00:51:29] [INFO] - Ryfi_Coder
+[00:51:29] [INFO] - Recived health:0.0
+[00:51:29] [INFO] - Recived position x:92.5,y:69.0999984741211,z:-188.5
+[00:51:30] [INFO] - Recived health:20.0
+[00:51:30] [INFO] - Recived health:20.0
+[00:51:44] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:51:44] [INFO] - !br
+[00:51:48] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:51:48] [INFO] - !br
+[00:51:54] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:51:54] [INFO] - !come
+[00:51:54] [INFO] - Walking
+[00:51:54] [INFO] - Calculating path
+[00:51:54] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:51:54] [INFO] - Бегу
+[00:51:54] [INFO] - Path found, walking...
+[00:51:57] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:51:57] [INFO] - !br
+[00:53:47] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:53:47] [INFO] - !br
+[00:53:49] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:53:49] [INFO] - !come
+[00:53:49] [INFO] - Walking
+[00:53:49] [INFO] - Calculating path
+[00:53:49] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:53:49] [INFO] - Бегу
+[00:53:49] [INFO] - Path found, walking...
+[00:53:53] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:53:53] [INFO] - !come
+[00:53:53] [INFO] - Walking
+[00:53:53] [INFO] - Calculating path
+[00:53:53] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:53:53] [INFO] - Бегу
+[00:53:53] [INFO] - Path found, walking...
+[00:53:58] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!drop"}]}
+[00:53:58] [INFO] - !drop
+[00:54:01] [INFO] - Recived health:14.648641
+[00:54:01] [INFO] - Recived health:15.481974
+[00:54:01] [INFO] - Recived health:16.481974
+[00:54:01] [INFO] - Recived health:7.272215
+[00:54:02] [INFO] - Recived health:7.9388814
+[00:54:02] [INFO] - Recived health:6.0998416
+[00:54:02] [INFO] - Recived health:6.5998416
+[00:54:02] [INFO] - Recived health:7.5998416
+[00:54:03] [INFO] - {"translate":"death.attack.player","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"},{"insertion":"Ryfi_Coder","clickEvent":{"action":"suggest_command","value":"/tell Ryfi_Coder "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"cdd57386-0ef0-30e4-ba61-77464a65f616","name":{"text":"Ryfi_Coder"}}},"text":"Ryfi_Coder"}]}
+[00:54:03] [INFO] - Ryfi_Coder
+[00:54:03] [INFO] - Recived health:0.0
+[00:54:03] [INFO] - Recived position x:86.5,y:70.0999984741211,z:-200.5
+[00:54:03] [INFO] - Recived health:20.0
+[00:54:03] [INFO] - Recived health:20.0
+[00:54:07] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!drop"}]}
+[00:54:07] [INFO] - !drop
+[00:54:09] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:54:09] [INFO] - !come
+[00:54:09] [INFO] - Walking
+[00:54:09] [INFO] - Calculating path
+[00:54:09] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:54:09] [INFO] - Бегу
+[00:54:09] [INFO] - Path found, walking...
+[00:57:10] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:57:19] [INFO] - Команда come зарегестрированна
+[00:57:19] [INFO] - Команда state зарегестрированна
+[00:57:19] [INFO] - Команда br зарегестрированна
+[00:57:19] [INFO] - Set threshold compression: 256
+[00:57:19] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:57:19] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:57:19] [INFO] - null
+[00:57:19] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:57:19] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:57:19] [INFO] - 
+[00:57:19] [INFO] - Recived health:20.0
+[00:57:19] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:57:25] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:57:25] [INFO] - !br
+[00:57:50] [INFO] - Команда come зарегестрированна
+[00:57:50] [INFO] - Команда state зарегестрированна
+[00:57:50] [INFO] - Команда br зарегестрированна
+[00:57:50] [INFO] - Set threshold compression: 256
+[00:57:50] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:57:50] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:57:50] [INFO] - null
+[00:57:50] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:57:50] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:57:50] [INFO] - 
+[00:57:50] [INFO] - Recived health:20.0
+[00:57:50] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:58:08] [INFO] - Команда come зарегестрированна
+[00:58:08] [INFO] - Команда state зарегестрированна
+[00:58:08] [INFO] - Команда br зарегестрированна
+[00:58:08] [INFO] - Set threshold compression: 256
+[00:58:08] [INFO] - Joined ZlotoiGnom with uuid 91348c10-ab42-3a26-b861-d2edf9a034d5
+[00:58:08] [INFO] - {"text":"Unknown command. Type \"/help\" for help."}
+[00:58:08] [INFO] - null
+[00:58:08] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:58:08] [INFO] - {"color":"yellow","translate":"multiplayer.player.joined","with":[{"insertion":"ZlotoiGnom","clickEvent":{"action":"suggest_command","value":"/tell ZlotoiGnom "},"hoverEvent":{"action":"show_entity","contents":{"type":"minecraft:player","id":"91348c10-ab42-3a26-b861-d2edf9a034d5","name":{"text":"ZlotoiGnom"}}},"text":"ZlotoiGnom"}]}
+[00:58:08] [INFO] - 
+[00:58:08] [INFO] - Recived health:20.0
+[00:58:08] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:58:08] [INFO] - Recived position x:87.5,y:69.0,z:-190.5
+[00:58:12] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!br"}]}
+[00:58:12] [INFO] - !br
+[00:58:18] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:58:18] [INFO] - !come
+[00:58:18] [INFO] - Walking
+[00:58:18] [INFO] - Calculating path
+[00:58:18] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:58:18] [INFO] - Бегу
+[00:58:18] [INFO] - Path found, walking...
+[00:58:21] [INFO] - {"translate":"chat.type.text","with":[{"text":"Ryfi_Coder"},{"text":"!come"}]}
+[00:58:21] [INFO] - !come
+[00:58:21] [INFO] - Walking
+[00:58:21] [INFO] - Calculating path
+[00:58:21] [INFO] - {"translate":"chat.type.text","with":[{"text":"ZlotoiGnom"},{"text":"Бегу"}]}
+[00:58:21] [INFO] - Бегу
+[00:58:21] [INFO] - Path found, walking...
+[01:02:30] [INFO] - {"color":"yellow","translate":"multiplayer.player.left","with":[{"text":"Ryfi_Coder"}]}
+[01:02:31] [INFO] - 
