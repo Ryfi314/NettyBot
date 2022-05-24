@@ -2,7 +2,6 @@ package ru.ryfi.bot.network;
 
 
 import io.netty.bootstrap.Bootstrap;
-import io.netty.channel.ChannelFuture;
 import io.netty.channel.epoll.Epoll;
 import io.netty.channel.epoll.EpollEventLoopGroup;
 import io.netty.channel.epoll.EpollSocketChannel;
@@ -10,15 +9,11 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioSocketChannel;
 import lombok.extern.log4j.Log4j2;
 import ru.ryfi.bot.ai.WalkActivity;
-import ru.ryfi.bot.network.enums.BlockFace;
 import ru.ryfi.bot.network.enums.Hand;
-import ru.ryfi.bot.network.enums.PlayerStatus;
 import ru.ryfi.bot.network.packet.client.play.*;
-import ru.ryfi.bot.simpleAi.Movment;
 
 import ru.ryfi.bot.world.pathfinding.PathNode;
 import ru.ryfi.bot.world.pathfinding.PathSearch;
-import ru.ryfi.bot.world.position.WorldLocation;
 import ru.ryfi.bot.world.position.BlockLocation;
 
 import java.io.*;
@@ -27,11 +22,6 @@ import java.io.*;
 @Log4j2
 
 public class Main {
-	public static double x;
-	public static double y;
-	public static double z;
-	public static float pitch;
-	public static float yaw;
 
 	public final static String ADDRESS = "localhost";
 
@@ -59,10 +49,6 @@ public class Main {
 					if(command.startsWith("chat")){
 						String message = command.replace("chat ","");
 						bob.getConnection().sendPacket(new PacketChatOut(message));
-					}
-					if(command.startsWith("go")){
-						String[] strings = command.split(" ");
-						Movment.SuncMove(bob.getConnection(),strings[1].charAt(0),Integer.parseInt(strings[2]));
 					}
 					if(command.startsWith("slot")){
 						String[] strings = command.split(" ");
@@ -127,7 +113,7 @@ public class Main {
 	}
 
 
-	public static ChannelFuture connect(Bot bot) {
+	public static void connect(Bot bot) {
 		Bootstrap client = new Bootstrap();
 		int nThread = Runtime.getRuntime().availableProcessors();
 		if (Epoll.isAvailable()) {
@@ -138,7 +124,7 @@ public class Main {
 			client.channel(NioSocketChannel.class);
 		}
 		client.handler(new NettyChannelInitializer(bot));
-		return client.connect(bot.getServerAddress(), bot.getServerPort());
+		client.connect(bot.getServerAddress(), bot.getServerPort());
 	}
 
 }

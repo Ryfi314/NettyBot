@@ -49,22 +49,19 @@ public class WalkActivity extends Activity{
                 ticksSinceStepChange = walkActivity.ticksSinceStepChange;
             }
         }
-        thread = service.submit(new Callable<PathNode>() {
-            @Override
-            public PathNode call() throws Exception {
-                World world = bot.getWorld();
-                log.info("Calculating path");
-                if(world == null || target == null)
-                    return null;
-                BlockLocation ourLocation = bot.getWorldLocation().toBlockLocation();
-                PathSearch search = world.getPathFinder().provideSearch(ourLocation, target);
-                while(!search.isDone() && (thread == null || !thread.isCancelled())) {
-                    log.debug("Stepping...");
-                    search.step();
-                }
-                bot.setState(BotState.WALKING);
-                return search.getPath();
+        thread = service.submit(() -> {
+            World world = bot.getWorld();
+            log.info("Calculating path");
+            if(world == null || target == null)
+                return null;
+            BlockLocation ourLocation = bot.getWorldLocation().toBlockLocation();
+            PathSearch search = world.getPathFinder().provideSearch(ourLocation, target);
+            while(!search.isDone() && (thread == null || !thread.isCancelled())) {
+                log.debug("Stepping...");
+                search.step();
             }
+            bot.setState(BotState.WALKING);
+            return search.getPath();
         });
         startTime = System.currentTimeMillis();
 

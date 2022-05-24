@@ -34,14 +34,6 @@ public class Entity {
 
     }
 
-    protected void move() {
-    }
-
-//    public void add(double x,double y,double z){
-//        this.x = this.x + x;
-//        this.y = this.y + y;
-//        this.z = this.z + z;
-//    }
 
     public World getWorld() {
         return world;
@@ -50,26 +42,6 @@ public class Entity {
     public int getId() {
         return id;
     }
-
-//    public double getX() {
-//        return x;
-//    }
-//
-//    public double getY() {
-//        return y;
-//    }
-//
-//    public double getZ() {
-//        return z;
-//    }
-//
-//    public double getYaw() {
-//        return yaw;
-//    }
-//
-//    public double getPitch() {
-//        return pitch;
-//    }
 
     public double getVelocityX() {
         return velocityX;
@@ -118,26 +90,6 @@ public class Entity {
     public boolean isDead() {
         return dead;
     }
-
-//    public void setX(double x) {
-//        this.x = x;
-//    }
-//
-//    public void setY(double y) {
-//        this.y = y;
-//    }
-//
-//    public void setZ(double z) {
-//        this.z = z;
-//    }
-//
-//    public void setYaw(double yaw) {
-//        this.yaw = yaw;
-//    }
-//
-//    public void setPitch(double pitch) {
-//        this.pitch = pitch;
-//    }
 
     public void setVelocityX(double velocityX) {
         this.velocityX = velocityX;

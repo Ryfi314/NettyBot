@@ -8,9 +8,7 @@ import ru.ryfi.bot.network.PacketBuf;
 import ru.ryfi.bot.network.packet.PacketOut;
 
 
-/**
- * @author Greenpix
- */
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter

@@ -10,9 +10,7 @@ import java.util.function.Consumer;
 
 import static com.google.common.base.Preconditions.*;
 
-/**
- * @author Greenpix
- */
+
 public class BotBuilder {
 	
 	private String serverHost = "localhost";

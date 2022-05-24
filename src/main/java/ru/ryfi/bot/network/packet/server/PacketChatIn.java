@@ -12,9 +12,7 @@ import ru.ryfi.bot.network.packet.PacketIn;
 import java.util.UUID;
 
 
-/**
- * @author Greenpix
- */
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter

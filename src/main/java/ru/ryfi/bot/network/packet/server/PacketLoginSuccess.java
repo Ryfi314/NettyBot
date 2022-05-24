@@ -15,9 +15,7 @@ import ru.ryfi.bot.network.packet.ProtocolType;
 
 import java.util.UUID;
 
-/**
- * @author Greenpix
- */
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter

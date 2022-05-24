@@ -27,9 +27,7 @@ import java.awt.*;
 import java.io.StringReader;
 import java.net.SocketAddress;
 
-/**
- * @author Greenpix
- */
+
 @RequiredArgsConstructor
 @Log4j2
 public class MinecraftConnection extends SimpleChannelInboundHandler<Packet> {

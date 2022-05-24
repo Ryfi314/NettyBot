@@ -6,9 +6,7 @@ import io.netty.handler.codec.MessageToByteEncoder;
 import ru.ryfi.bot.network.packet.Packet;
 import ru.ryfi.bot.network.packet.ProtocolType;
 
-/**
- * @author Greenpix
- */
+
 public class PacketEncoder extends MessageToByteEncoder<Packet> {
 
 	@Override

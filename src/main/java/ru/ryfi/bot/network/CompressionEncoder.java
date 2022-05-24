@@ -6,9 +6,7 @@ import io.netty.handler.codec.MessageToByteEncoder;
 
 import java.util.zip.Deflater;
 
-/**
- * @author Greenpix
- */
+
 public class CompressionEncoder extends MessageToByteEncoder<ByteBuf> {
 
 	private final byte[] buffer = new byte[8192];

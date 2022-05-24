@@ -8,9 +8,7 @@ import io.netty.handler.codec.CorruptedFrameException;
 
 import java.util.List;
 
-/**
- * @author Greenpix
- */
+
 public class Varint21Decoder extends ByteToMessageDecoder {
 
 	@Override

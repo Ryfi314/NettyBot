@@ -5,6 +5,7 @@ import java.lang.reflect.Method;
 import java.util.*;
 
 public class EventManager{
+    // боже что за кринж
     static public List<Listener> eventContainers = new ArrayList<>();
     public static void addListener(Listener listener){
         eventContainers.add(listener);

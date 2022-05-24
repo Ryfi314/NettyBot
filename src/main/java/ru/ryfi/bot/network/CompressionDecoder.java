@@ -9,9 +9,7 @@ import io.netty.handler.codec.DecoderException;
 import java.util.List;
 import java.util.zip.Inflater;
 
-/**
- * @author Greenpix
- */
+
 public class CompressionDecoder extends ByteToMessageDecoder {
 
 	private final Inflater inflater;

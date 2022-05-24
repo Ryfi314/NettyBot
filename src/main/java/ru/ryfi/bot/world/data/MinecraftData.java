@@ -16,7 +16,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class MinecraftData {
-
+    // Эта штучка использовалась для парсинга инфы о майнкрафт с json
     private final String path;
 
     public MinecraftData(String path) {

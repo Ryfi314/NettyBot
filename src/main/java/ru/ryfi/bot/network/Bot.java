@@ -21,23 +21,17 @@ import ru.ryfi.bot.network.packet.client.play.PacketDigingOut;
 import ru.ryfi.bot.network.packet.client.play.PacketPositionAndLookOut;
 
 import ru.ryfi.bot.network.packet.client.play.SwingArmPacket;
-import ru.ryfi.bot.utils.Calculator;
 import ru.ryfi.bot.world.Physics;
 import ru.ryfi.bot.world.World;
 
 import ru.ryfi.bot.world.entity.Entity;
-import ru.ryfi.bot.world.entity.PlayerEntity;
 import ru.ryfi.bot.world.position.WorldLocation;
 
 import java.util.Collection;
 import java.util.concurrent.TimeUnit;
 import java.util.function.BiConsumer;
 
-import static java.lang.Float.NaN;
 
-/**
- * @author Greenpix
- */
 @RequiredArgsConstructor
 public class Bot {
 
@@ -131,31 +125,7 @@ public class Bot {
 		worldLocation.setYaw(yaw);
 	}
 	public void face(Entity entity){
-
-		double xDiff = entity.getLocation().getX() - worldLocation.getX();
-		double yDiff = entity.getLocation().getY() - worldLocation.getY();
-		double zDiff = entity.getLocation().getZ() - worldLocation.getZ();
-
-		double DistanceXZ = Math.sqrt(xDiff * xDiff + zDiff * zDiff);
-		double DistanceY = Math.sqrt(DistanceXZ * DistanceXZ + yDiff * yDiff);
-		double newYaw = Math.acos(xDiff / DistanceXZ) * 180 / Math.PI;
-		double newPitch = Math.acos(yDiff / DistanceY) * 180 / Math.PI - 90;
-		if (zDiff < 0.0)
-			newYaw = newYaw + Math.abs(180 - newYaw) * 2;
-		newYaw = (newYaw - 90);
-
-
-		float pitch = (float) newPitch;
-		float yaw = (float) newYaw;
-		if(Float.isNaN(yaw)){
-			yaw = 0;
-		}
-		if(Float.isNaN(pitch)){
-			pitch = 0;
-		}
-
-		worldLocation.setPitch(pitch);
-		worldLocation.setYaw(yaw);
+		face(entity.getLocation());
 	}
 
 	private void startTicking(){
@@ -210,10 +180,6 @@ public class Bot {
 	public boolean isConnected() {
 		return this.connection.isChannelOpen();
 	}
-	
-	public static BotBuilder builder() {
-		return new BotBuilder();
-	}
 
 	public String getUsername() {
 		return username;
@@ -226,6 +192,8 @@ public class Bot {
 	public long getKeepAliveId() {
 		return KeepAliveId;
 	}
+
+	// мои попытки заставить бота ломать блоки
 	public synchronized void digBlock(){
 		getConnection().sendPacket(new SwingArmPacket(Hand.MAIN_HAND));
 		face(getWorldLocation().offset(0,-1,0));
@@ -236,5 +204,9 @@ public class Bot {
 			e.printStackTrace();
 		}
 		getConnection().sendPacket(new PacketDigingOut(PlayerStatus.FINISHEDDIGGING, getWorldLocation().offset(0,-1,0).toBlockLocation(), BlockFace.UP));
+	}
+
+	public static BotBuilder builder() {
+		return new BotBuilder();
 	}
 }

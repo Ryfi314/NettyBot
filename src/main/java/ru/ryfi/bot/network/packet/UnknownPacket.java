@@ -6,9 +6,7 @@ import lombok.extern.log4j.Log4j2;
 
 import ru.ryfi.bot.network.MinecraftConnection;
 
-/**
- * @author Greenpix
- */
+
 @RequiredArgsConstructor
 @Log4j2
 @ToString(onlyExplicitlyIncluded = true)

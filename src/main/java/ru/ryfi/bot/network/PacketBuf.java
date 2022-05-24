@@ -29,9 +29,7 @@ import java.util.BitSet;
 
 import static org.joou.Unsigned.ulong;
 
-/**
- * @author Greenpix
- */
+
 public class PacketBuf extends ByteBuf {
 
 	private final ByteBuf buf;

@@ -8,9 +8,7 @@ import ru.ryfi.bot.network.packet.UnknownPacket;
 
 import java.util.List;
 
-/**
- * @author Greenpix
- */
+
 public class PacketDecoder extends ByteToMessageDecoder {
 
 	@Override

@@ -67,8 +67,9 @@ public class SimpleWorldPhysics implements WorldPhysics {
 			return false;
 
 		boolean valid = true;
-		valid = valid && isEmpty(x2, y2, z2); // Block at must be non-solid
-		valid = valid && isEmpty(x2, y2 + 1, z2); // Block above must be non-solid
+		//Физика максимально простая
+		valid = valid && isEmpty(x2, y2, z2);
+		valid = valid && isEmpty(x2, y2 + 1, z2);
 
 //		int lowerBlock = world.getBlockIdAt(x2, y2 - 1, z2);
 //		valid = valid && lowerBlock != 10;

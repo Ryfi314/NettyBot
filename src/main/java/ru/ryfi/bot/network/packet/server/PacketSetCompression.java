@@ -10,9 +10,7 @@ import ru.ryfi.bot.network.MinecraftConnection;
 import ru.ryfi.bot.network.PacketBuf;
 import ru.ryfi.bot.network.packet.PacketIn;
 
-/**
- * @author Greenpix
- */
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter

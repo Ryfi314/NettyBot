@@ -14,9 +14,7 @@ import ru.ryfi.bot.network.packet.server.*;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Map;
 
-/**
- * @author Greenpix
- */
+
 public enum ProtocolType {
 
 	HANDSHAKING(

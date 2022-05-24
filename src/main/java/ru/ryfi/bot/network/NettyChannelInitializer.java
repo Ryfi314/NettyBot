@@ -10,9 +10,7 @@ import lombok.extern.log4j.Log4j2;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Greenpix
- */
+
 @RequiredArgsConstructor
 @Log4j2
 public class NettyChannelInitializer extends ChannelInitializer<Channel> {
